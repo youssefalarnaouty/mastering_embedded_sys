@@ -19,8 +19,3 @@ Unit 3: [Embedded C](https://github.com/youssefzaki28/mastering_embedded_sys/tre
 Youssef Zaki Al-Arnaouty\
 youssefzaki28@gmail.com\
 2022
-
-
-
-
-https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%201%20-%20Typedef%20%26%20Compilation%20Process
