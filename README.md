@@ -12,10 +12,11 @@ Unit 2: [C Programming](https://github.com/youssefzaki28/mastering_embedded_sys/
 - Lectures 6,7: [Structs,Enums and Unions - Preprocessors](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%202%20-%20C%20Programming/Lecture%206%20-%20Structs%20%26%20Enums%20%26%20Unions)
 - Lecture 8  : [Pointers](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%202%20-%20C%20Programming/Lecture%208%20-%20Pointers)
 
-Unit 3: [Embedded C](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20) :
+Unit 3: [Embedded C](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C) :
 - Lecture 1: [Typedefs, Static Libraries and the Compilation Process](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%201%20-%20Typedef%20%26%20Compilation%20Process)
 - Lecture 2: [Linker Script](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%202%20-%20Linker%20Script)
 - Lecture 3: [gdb & Makefile](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%203%20-%20gdb%20%26%20Makefile)
+- Lecture 4: [Debuggers](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%204%20-%20Debuggers)
 
 ## Author
 Youssef Zaki Al-Arnaouty\
