@@ -18,6 +18,9 @@ Unit 3: [Embedded C](https://github.com/youssefzaki28/mastering_embedded_sys/tre
 - Lecture 3: [gdb & Makefile](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%203%20-%20gdb%20%26%20Makefile)
 - Lecture 4: [Debuggers](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%203%20-%20Embedded%20C/Lecture%204%20-%20Debuggers)
 
+Unit 4: [System Architectre](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%204%20-%20System%20Architecture) :
+- Lecture 1: [Data Structures](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%204%20-%20System%20Architecture/Lecture%201%20-%20Data%20Structures)
+
 ## Author
 Youssef Zaki Al-Arnaouty\
 youssefzaki28@gmail.com\
