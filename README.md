@@ -20,6 +20,7 @@ Unit 3: [Embedded C](https://github.com/youssefzaki28/mastering_embedded_sys/tre
 
 Unit 4: [System Architectre](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%204%20-%20System%20Architecture) :
 - Lecture 1: [Data Structures](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%204%20-%20System%20Architecture/Lecture%201%20-%20Data%20Structures)
+- Lecture 2: [State Machines](https://github.com/youssefzaki28/mastering_embedded_sys/tree/main/Assignments/Unit%204%20-%20System%20Architecture/Lecture%202%20-%20State%20Machines)
 
 ## Author
 Youssef Zaki Al-Arnaouty\
